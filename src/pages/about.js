@@ -33,7 +33,7 @@ const AboutPage = (props) => {
 
         <div className={styles.navContainer}>
           <ThemeLink onClick={() => handleScroll(historyRef)} to={'#history'}>
-            History
+            History of zimbabwe
           </ThemeLink>
           <ThemeLink onClick={() => handleScroll(valuesRef)} to={'#values'}>
             Values
@@ -42,7 +42,7 @@ const AboutPage = (props) => {
             onClick={() => handleScroll(sustainabilityRef)}
             to={'#sustainability'}
           >
-            Sustainability
+            Sustainabilitylsxlxxx
           </ThemeLink>
         </div>
 
