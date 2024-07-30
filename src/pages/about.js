@@ -81,7 +81,7 @@ const AboutPage = (props) => {
                 creating the T-shirt. We've supplied the world as the T-shirt
                 has evolved from underwear to outerwear, from symbol of youthful
                 rebellion to everyday wardrobe staple, and we've spent decades
-                refining its every last aspect.
+                refining its every lastkkkkkkkkkkkkkkkkkkkks aspect.kkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
               </p>
               <ol>
                 <li>Be an ecowear</li>
@@ -101,10 +101,10 @@ const AboutPage = (props) => {
                 Supima cotton, Q75 warp knit mesh cotton and Q14 warp knit
                 cellular cotton. The technology behind these fabrics remains
                 unchanged today and all Sunspel products use the finest cottons,
-                wools and fibres.
+                wools and fibrekkkkkkkkkkkkkkkkkkkkkkkkkks.
               </p>
               <p>
-                Made in Long Eaton, England and crafted from our luxurious long
+                kkkkkkkkkkkkkkkkk kkkkkkkkkk Made in Long Eaton, England and crafted from our luxurious long
                 staple Supima cotton for unparalleled softness, comfort and
                 durability, the Sunspel T-shirt has a classic fit and only the
                 most essential details.{' '}
